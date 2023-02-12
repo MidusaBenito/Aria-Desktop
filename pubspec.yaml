@@ -56,6 +56,7 @@ dependencies:
   #webview_cef: ^0.0.7
   desktop_webview_window: ^0.1.6
   path_provider: ^2.0.11
+  file: ^6.1.4
   
   
 
