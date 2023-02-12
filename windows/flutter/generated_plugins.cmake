@@ -4,7 +4,6 @@
 
 list(APPEND FLUTTER_PLUGIN_LIST
   desktop_webview_window
-  local_auth_windows
   screen_retriever
   url_launcher_windows
   window_manager
